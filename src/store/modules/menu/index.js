@@ -7,11 +7,9 @@ const state = {
   ]
 }
 
-
 const getters = {
   items: state => state.items
 }
-
 
 const menuModule = {
   state,
